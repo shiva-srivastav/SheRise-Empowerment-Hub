@@ -32,6 +32,51 @@ The project consists of:
 ![Financial Literacy](./images/financial.png)
 *Educational resources to improve financial knowledge and skills*
 
+## PPT Screenshot
+
+--- 
+
+#### Slide 1
+![Slide 1](./images/image1.png)
+
+#### Slide 2
+![Slide 2](./images/image2.png)
+
+#### Slide 3
+![Slide 3](./images/image3.png)
+
+#### Slide 4
+![Slide 4](./images/image4.png)
+
+#### Slide 5
+![Slide 5](./images/image5.png)
+
+#### Slide 6
+![Slide 6](./images/image6.png)
+
+#### Slide 7
+![Slide 7](./images/image7.png)
+
+#### Slide 8
+![Slide 8](./images/image8.png)
+
+#### Slide 9
+![Slide 9](./images/image9.png)
+
+#### Slide 10
+![Slide 10](./images/image10.png)
+
+#### Slide 11
+![Slide 11](./images/image11.png)
+
+#### Slide 12
+![Slide 12](./images/image12.png)
+
+#### Slide 13
+![Slide 13](./images/image13.png)
+
+#### Slide 14
+![Slide 14](./images/image14.png)
 ---
 
 ## Project Structure
