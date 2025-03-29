@@ -14,6 +14,26 @@ The project consists of:
 
 ---
 
+## Application Screenshots
+
+### Marketplace
+![Marketplace](./images/marketplace.png)
+*Digital marketplace connecting women-led businesses with customers*
+
+### Mentorship Network
+![Mentorship](./images/mentorship.png)
+*Platform connecting emerging women entrepreneurs with experienced mentors*
+
+### Credit Scoring
+![Credit Scoring](./images/creditscore.png)
+*AI-powered alternative credit assessment system*
+
+### Financial Literacy
+![Financial Literacy](./images/financial.png)
+*Educational resources to improve financial knowledge and skills*
+
+---
+
 ## Project Structure
 
 ```plaintext
@@ -86,6 +106,11 @@ she-rise/
 │   ├── api_docs.md          # API documentation
 │   ├── setup_guide.md       # Setup instructions
 │   └── architecture.md      # System architecture overview
+├── images/                  # Application screenshots
+│   ├── creditscore.png      # Credit scoring module screenshot
+│   ├── financial.png        # Financial literacy module screenshot  
+│   ├── marketplace.png      # Marketplace module screenshot
+│   └── mentorship.png       # Mentorship module screenshot
 ├── scripts/                 # Utility scripts
 │   ├── setup.sh             # Setup script
 │   └── deploy.sh            # Deployment script
@@ -93,7 +118,6 @@ she-rise/
 ├── README.md                # Project overview
 └── requirements.txt         # Python dependencies
 ```
-
 ---
 
 ## Features
